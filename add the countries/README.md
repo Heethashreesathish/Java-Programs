@@ -1,3 +1,3 @@
-[Disply selection](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/add the countries/displayselection.png)
+[Disply selection](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/addthecountries/displayselection.png)
 
 
