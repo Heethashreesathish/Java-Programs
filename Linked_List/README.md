@@ -1,7 +1,7 @@
 [Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/Linked_List/1c1_LinkedListIterationFromSecond.png)
 
 
-[Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/Linked_List/1c2_LinkedLisReverseIteration.png)
+[Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/Linked_List/1c2_LinkedListReverseIteration.png)
 
 
 [Display output ](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/Linked_List/1c3_LinkedListOfferLastExample.png)
