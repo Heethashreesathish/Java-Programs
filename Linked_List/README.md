@@ -7,7 +7,7 @@
 [Display ](https://raw.githubusercontent.com/Heethashreesathish/Java-programs/main/Swing_program/4b_displaymessage.png)
 
 
-[Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-programs/main/Swing_program/4b_displaymessage.png)
+[Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-programs/main/Linked_List/1c4_LinkedListElementPosition.png)
 
 
 [Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-programs/main/Swing_program/4b_displaymessage.png)
