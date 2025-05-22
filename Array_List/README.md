@@ -10,5 +10,5 @@
 [Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/Array_List/1b4_ColorSubList.png)
 
 
-[Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/Array_List/1b5_ColorRemovalByIndex.png)
+[Display output](https://raw.githubusercontent.com/Heethashreesathish/Java-Programs/main/Array_List/1b5_ColorRemoveByIndex.png)
 
